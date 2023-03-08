@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "imgmobile": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner1mobile.webp",
+        "img": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner1.webp",
+        "width": "1920",
+        "height": "500",
+        "alt": "banner upshop 1"
+    },
+    {
+        "id": "2",
+        "imgmobile": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner2mobile.webp",
+        "img": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner2.webp",
+        "width": "1920",
+        "height": "500",
+        "alt": "banner upshop 2"
+    },
+    {
+        "id": "3",
+        "imgmobile": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner3mobile.webp",
+        "img": "https://raw.githubusercontent.com/vinicius-artes/upshop/main/src/api/banner-home/banner3.webp",
+        "width": "1920",
+        "height": "500",
+        "alt": "banner upshop 3"
+    }
+]
