@@ -6,28 +6,20 @@
           <img
             :src="banners.imgmobile"
             :alt="banners.alt"
+            width="820"
+            height="600"
           >
+          <!--
+            <img
+            :src="banners.img"
+            :alt="banners.alt"
+            :width="banners.width"
+            :height="banners.height"
+          >
+            -->
         </div>
       </div>
-      <!--
-      <div>
-        <div>
-          <img
-            src="../api/banner-home/banner1.webp"
-          >
-        </div>
-        <div>
-          <img
-            src="../api/banner-home/banner2.webp"
-          >
-        </div>
-        <div>
-          <img
-            src="../api/banner-home/banner3.webp"
-          >
-        </div>
-      </div>
-      -->
+      
     </div>
   </main>
 </template>

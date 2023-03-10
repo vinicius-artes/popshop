@@ -4,210 +4,390 @@
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/blusa-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Camiseta verde lorem ipsom",
+        "preco": "49,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/camiseta-verde"
+            }
     },
     {
         "id": "prod2",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/blusa-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Regata vermelha lorem ipsom",
+        "preco": "49,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/regata-vermelha"
+            }
     },
     {
         "id": "prod3",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/blusa-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Regata azul lorem ipsom",
+        "preco": "49,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/regata-azul"
+            }
     },
     {
         "id": "prod4",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/blusa-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Blusa rosa lorem ipsom",
+        "preco": "49,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/blusa-rosa"
+            }
     },
     {
         "id": "prod5",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/blusa-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Regata laranja lorem ipsom",
+        "preco": "49,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/regata-laranja"
+            }
     },
     {
         "id": "prod6",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/calca-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Calça flare jeans lorem ipsom",
+        "preco": "89,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/calca-flare-jeans"
+            }
     },
     {
         "id": "prod7",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/calca-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Calça flare amarela lorem ipsom",
+        "preco": "89,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/calca-flare"
+            }
     },
     {
         "id": "prod8",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/calca-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Calça skinny rosa lorem ipsom",
+        "preco": "89,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/calca-skinny"
+            }
     },
     {
         "id": "prod9",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/calca-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Calça rosa lorem ipsom",
+        "preco": "89,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/calca-rosa"
+            }
     },
     {
         "id": "prod10",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/calca-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Calça cargo lorem ipsom",
+        "preco": "89,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/calca-cargo"
+            }
     },
     {
         "id": "prod11",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/jauqeta-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Jaqueta puffer lorem ipsom",
+        "preco": "109,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/jaqueta-puffer"
+            }
     },
     {
         "id": "prod12",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/jauqeta-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Jaqueta corta vento lorem ipsom",
+        "preco": "109,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/jaqueta-corta-vento"
+            }
     },
     {
         "id": "prod13",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/jauqeta-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Jaqueta bomber lorem ipsom",
+        "preco": "109,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/jaqueta-bomber"
+            }
     },
     {
         "id": "prod14",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/jauqeta-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Jaqueta street lorem ipsom",
+        "preco": "109,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/jaqueta-street"
+            }
     },
     {
         "id": "prod15",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/jauqeta-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Jaqueta college lorem ipsom",
+        "preco": "109,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/jaqueta-college"
+            }
     },
     {
         "id": "prod16",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/saia-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Saia pregueada estampada lorem ipsom",
+        "preco": "67,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/saia-midi-pregueada-estampada"
+            }
     },
     {
         "id": "prod17",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/saia-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Saia pregueada rosa lorem ipsom",
+        "preco": "67,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/saia-pregueada-rosa"
+            }
     },
     {
         "id": "prod18",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/saia-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Saia godê preta lorem ipsom",
+        "preco": "67,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/saia-gode-preto"
+            }
     },
     {
         "id": "prod19",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/saia-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Saia midi roxa lorem ipsom",
+        "preco": "67,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/saia-midi-roxa"
+            }
     },
     {
         "id": "prod20",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/saia-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Saia midi branca lorem ipsom",
+        "preco": "67,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/saia-midi-branca"
+            }
     },
     {
         "id": "prod21",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/short-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Short verde poá lorem ipsom",
+        "preco": "59,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/short-verde-poa"
+            }
     },
     {
         "id": "prod22",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/short-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Short rosa poá lorem ipsom",
+        "preco": "59,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/short-rosa-poa"
+            }
     },
     {
         "id": "prod23",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/short-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Short sarja cáqui lorem ipsom",
+        "preco": "59,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/short-sarja-caqui"
+            }
     },
     {
         "id": "prod24",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/short-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Short sarja rosa lorem ipsom",
+        "preco": "59,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/short-sarja-rosa"
+            }
     },
     {
         "id": "prod25",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/short-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Short curto roxo lorem ipsom",
+        "preco": "59,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/short-curto-roxo"
+            }
     },
     {
         "id": "prod26",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/vestido-1.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Vestido azul marinho de botão lorem ipsom",
+        "preco": "129,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/vestido-botao"
+            }
     },
     {
         "id": "prod27",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/vestido-2.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Vestido godê azul marinho de bolinha lorem ipsom",
+        "preco": "129,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/vestido-gode-azul-bolinha"
+            }
     },
     {
         "id": "prod28",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/vestido-3.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Vestido rosa franzido lorem ipsom",
+        "preco": "129,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/vestido-rosa-franzido"
+            }
     },
     {
         "id": "prod29",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/vestido-4.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Vestido verde água com detalhe lorem ipsom",
+        "preco": "129,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/vestido-verde-agua-com-detalhe"
+            }
     },
     {
         "id": "prod30",
         "imgprod": "https://raw.githubusercontent.com/vinicius-artes/popshop/main/api/produtos/vestido-5.webp",
         "width": "1000",
         "height": "1000",
-        "alt": "produto roupa popshop"
+        "alt": "produto roupa popshop",
+        "title": "Vestido plissado bicolor lorem ipsom",
+        "preco": "129,90",
+        "rota": {
+            "name": "produto/detalhe",
+            "route": "/vestido-plissado-bicolor"
+            }
     }
 
 ]

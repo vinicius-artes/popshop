@@ -1,5 +1,6 @@
 :root {
-    --color-principal: #ffffff;
+    --color-principal: #670101;
+    --color-descricoes: #4a4949;
 }
 body, ul, li, h1, h2, h3, h4, p {
     padding: 0px;
@@ -23,3 +24,31 @@ body, ul, li, h1, h2, h3, h4, p {
     max-width: 1920px;
     margin: 0 auto;
   }
+  .container-vitrine {
+    max-width: 1920px;
+    padding: 0 20px;
+  }
+  .tns-controls button{
+    color: transparent;
+    background-color: var(--color-principal);
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    z-index: 15;
+    top: 45%;
+    border: transparent;
+    border-radius: 50px;
+  }
+  .tns-controls button:nth-child(1){
+    left: 1%;
+  }
+  .tns-controls button:nth-child(2){
+    right: 1%;
+  }
+  /*.tns-controls button:nth-child(1)::before{
+    content: url('../img/geral/arrow-left.svg');
+  }
+  .tns-controls button:nth-child(2)::before{
+    content: url('../img/geral/arrow-right.svg');
+  }*/
+ 
