@@ -1,5 +1,5 @@
 <template>
-  <main class="container-vitrine">
+  <main class="container-vitrine container-grid-principal">
     <h2>Lançamentos</h2>
     <div class="vitrine-lancamentos">
         <div v-for="(vitrine, index) in vitrine.slice(0,10)" :key="index" class="container-vitrine-item">

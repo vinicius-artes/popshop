@@ -1,22 +1,22 @@
 <template>
   <main id="sliderBannerHome">
-    <div class="slider">
+    <div class="slider container-grid-principal">
       <div class="containerBanner">
         <div v-for="(banners, index) in banners" :key="index">
           <img
+            v-if="$screen.width < 820"
             :src="banners.imgmobile"
             :alt="banners.alt"
             width="820"
             height="600"
           >
-          <!--
             <img
+            v-else
             :src="banners.img"
             :alt="banners.alt"
             :width="banners.width"
             :height="banners.height"
           >
-            -->
         </div>
       </div>
       
@@ -48,6 +48,7 @@ export default {
       lazyload: true,
       autoplay: true,
       slideBy: 'page',
+      loop: true,
       controls: false,
       autoplayButtonOutput: false,
     });

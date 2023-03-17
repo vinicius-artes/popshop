@@ -6,7 +6,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Camiseta verde lorem ipsom",
-        "preco": "49,90",
+        "preco": "49.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/camiseta-verde"
@@ -19,7 +19,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Regata vermelha lorem ipsom",
-        "preco": "49,90",
+        "preco": "49.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/regata-vermelha"
@@ -32,7 +32,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Regata azul lorem ipsom",
-        "preco": "49,90",
+        "preco": "49.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/regata-azul"
@@ -45,7 +45,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Blusa rosa lorem ipsom",
-        "preco": "49,90",
+        "preco": "49.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/blusa-rosa"
@@ -58,7 +58,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Regata laranja lorem ipsom",
-        "preco": "49,90",
+        "preco": "49.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/regata-laranja"
@@ -71,7 +71,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Calça flare jeans lorem ipsom",
-        "preco": "89,90",
+        "preco": "89.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/calca-flare-jeans"
@@ -84,7 +84,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Calça flare amarela lorem ipsom",
-        "preco": "89,90",
+        "preco": "89.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/calca-flare"
@@ -97,7 +97,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Calça skinny rosa lorem ipsom",
-        "preco": "89,90",
+        "preco": "89.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/calca-skinny"
@@ -110,7 +110,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Calça rosa lorem ipsom",
-        "preco": "89,90",
+        "preco": "89.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/calca-rosa"
@@ -123,7 +123,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Calça cargo lorem ipsom",
-        "preco": "89,90",
+        "preco": "89.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/calca-cargo"
@@ -136,7 +136,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Jaqueta puffer lorem ipsom",
-        "preco": "109,90",
+        "preco": "109.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/jaqueta-puffer"
@@ -149,7 +149,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Jaqueta corta vento lorem ipsom",
-        "preco": "109,90",
+        "preco": "109.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/jaqueta-corta-vento"
@@ -162,7 +162,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Jaqueta bomber lorem ipsom",
-        "preco": "109,90",
+        "preco": "109.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/jaqueta-bomber"
@@ -175,7 +175,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Jaqueta street lorem ipsom",
-        "preco": "109,90",
+        "preco": "109.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/jaqueta-street"
@@ -188,7 +188,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Jaqueta college lorem ipsom",
-        "preco": "109,90",
+        "preco": "109.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/jaqueta-college"
@@ -201,7 +201,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Saia pregueada estampada lorem ipsom",
-        "preco": "67,90",
+        "preco": "67.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/saia-midi-pregueada-estampada"
@@ -214,7 +214,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Saia pregueada rosa lorem ipsom",
-        "preco": "67,90",
+        "preco": "67.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/saia-pregueada-rosa"
@@ -227,7 +227,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Saia godê preta lorem ipsom",
-        "preco": "67,90",
+        "preco": "67.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/saia-gode-preto"
@@ -240,7 +240,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Saia midi roxa lorem ipsom",
-        "preco": "67,90",
+        "preco": "67.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/saia-midi-roxa"
@@ -253,7 +253,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Saia midi branca lorem ipsom",
-        "preco": "67,90",
+        "preco": "67.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/saia-midi-branca"
@@ -266,7 +266,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Short verde poá lorem ipsom",
-        "preco": "59,90",
+        "preco": "59.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/short-verde-poa"
@@ -279,7 +279,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Short rosa poá lorem ipsom",
-        "preco": "59,90",
+        "preco": "59.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/short-rosa-poa"
@@ -292,7 +292,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Short sarja cáqui lorem ipsom",
-        "preco": "59,90",
+        "preco": "59.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/short-sarja-caqui"
@@ -305,7 +305,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Short sarja rosa lorem ipsom",
-        "preco": "59,90",
+        "preco": "59.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/short-sarja-rosa"
@@ -318,7 +318,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Short curto roxo lorem ipsom",
-        "preco": "59,90",
+        "preco": "59.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/short-curto-roxo"
@@ -331,7 +331,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Vestido azul marinho de botão lorem ipsom",
-        "preco": "129,90",
+        "preco": "129.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/vestido-botao"
@@ -344,7 +344,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Vestido godê azul marinho de bolinha lorem ipsom",
-        "preco": "129,90",
+        "preco": "129.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/vestido-gode-azul-bolinha"
@@ -357,7 +357,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Vestido rosa franzido lorem ipsom",
-        "preco": "129,90",
+        "preco": "129.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/vestido-rosa-franzido"
@@ -370,7 +370,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Vestido verde água com detalhe lorem ipsom",
-        "preco": "129,90",
+        "preco": "129.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/vestido-verde-agua-com-detalhe"
@@ -383,7 +383,7 @@
         "height": "1000",
         "alt": "produto roupa popshop",
         "title": "Vestido plissado bicolor lorem ipsom",
-        "preco": "129,90",
+        "preco": "129.90",
         "rota": {
             "name": "produto/detalhe",
             "route": "/vestido-plissado-bicolor"

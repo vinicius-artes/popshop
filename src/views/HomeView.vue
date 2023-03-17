@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home container-grid-principal">
     <BannerHomes />
     <div class="container-vitrine">
     <h1>Loja de Moda Feminina</h1>

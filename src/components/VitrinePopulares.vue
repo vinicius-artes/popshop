@@ -1,15 +1,19 @@
 <template>
-  <main class="container-vitrine">
+  <main class="container-vitrine container-grid-principal">
     <h2>Queridinhos</h2>
     <div class="vitrine-populares">
-        <div v-for="(vitrine, index) in vitrine.slice(10,20)" :key="index" class="container-vitrine-item">
+        <router-link :to="{...vitrine.route}" v-for="(vitrine, index) in vitrine.slice(10,20)" :key="index" class="container-vitrine-item">
           <img
             :src="vitrine.imgprod"
             :alt="vitrine.alt"
             :width="vitrine.width"
             :height="vitrine.height"
           >
-        </div>
+          <h4>{{ vitrine.title }}</h4>
+          <span class="preco">R${{ vitrine.preco }}</span>
+          <span class="parcelas">12 x R${{ vitrine.preco }} sem juros</span>
+          <button>Ver Mais</button>
+        </router-link>
     </div>
 
   </main>
@@ -23,11 +27,20 @@ export default {
     name: 'VitrinePopulares',
     data() {
         return {
-        vitrine: []
+        vitrine: [],
         }
     },
-      mounted() {
-    api.get('/produtos.json').then(response => { this.vitrine = response.data })
+    methods: {
+      calculaParcela() {
+        const parcela = this.vitrine.preco ;
+        parseFloat(parcela * 12)
+        return
+      }
+    },
+    mounted() {
+    api.get('/produtos.json').then(response => { this.vitrine = response.data });
+    this.calculaParcela()
+
   },
   updated() {
 
@@ -44,7 +57,11 @@ export default {
       autoplayButtonOutput: false,
       loop: true,
       responsive: {
-      820: {
+      450: {
+        items: 3,
+        autoplay: true,
+      },
+      800: {
         items: 5,
         autoplay: true,
       },
@@ -56,7 +73,7 @@ export default {
 
 <style scoped>
 .container-vitrine {
-  background: #ac0349;
+  background: #ac8503;
 }
 .vitrine-populares {
   display: flex;
@@ -78,11 +95,45 @@ h2 {
 }
 .container-vitrine-item {
   background: #ffffff;
-  height: 300px;
+  min-height: 340px;
   border-radius: 8px;
   margin: 5px 5px 16px 5px;
+  padding: 5px;
+  position: relative;
 }
-@media (min-width: 820px) {
+.parcelas {
+  display: block;
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+.preco {
+  display: block;
+  margin: 10px 0px 0px 0px;
+  font-size: 20px;
+  font-style: bold;
+  color: #5cd400;
+  font-weight: 700;
+}
+.container-vitrine-item button {
+  /*position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: 5%;
+  height: 40px;*/
+  width: 90px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: var(--color-principal);
+  border: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 0 auto;
+}
+.container-vitrine-item button:hover {
+  background-color: #980000;
+}
+/*@media (min-width: 650px) {
   .container-vitrine-item  {
     height: 450px;
     }
@@ -90,5 +141,10 @@ h2 {
   font-size: 32px;
 }
 }
+@media (min-width: 800px) {
+  .container-vitrine-item  {
+    height: 450px;
+    }
+}*/
 
 </style>
